@@ -16,3 +16,6 @@ A commit is a saved change in my projects.
 - I created my first repository.
 - I learned how folders work in GitHu.
 - I learned ehat a commit is.
+
+## My first GitHub experiment
+I created my first GitHub repository and made my first commit.
